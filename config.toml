@@ -1,6 +1,6 @@
 baseurl = "https://dector.github.io" # Controls base URL
 languageCode = "en-US" # Controls site language
-title = "There is NO shortcuts" # Homepage title and page title suffix
+title = "There are NO shortcuts" # Homepage title and page title suffix
 paginate = 10 # Number of posts to show before paginating
 
 theme = "base16" # Set default theme
