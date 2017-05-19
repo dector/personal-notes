@@ -7,8 +7,8 @@ title = "Important Relationship Principles"
 +++
 
 > Hell is other people.
+> _/J. P. Sartre/_
 
-**J. P. Sartre**
 
 Some time ago I've spent a lot of time thinking about principles upon which I'd like to build high-quality relations with another people. For a long time, they were just some implicit stimuli inside my brain. I've always walked around but never proclaimed them loud and clear even to myself.
 

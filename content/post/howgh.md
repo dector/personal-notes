@@ -7,12 +7,10 @@ tags = ["blog"]
 +++
 
 > A facility for quotation covers the absence of original thought.
-
-**Dorothy L. Sayers**
+> _/Dorothy L. Sayers/_
 
 > There is nothing to writing. All you do is sit down at a typewriter and bleed.
-
-**Ernest Hemingway**
+> _/Ernest Hemingway/_
 
 This is just another one attempt to build public space for personal thoughts about life, technologies, Universe and us. I failed with all previous variants so I don't expect too much from this as well.
 
