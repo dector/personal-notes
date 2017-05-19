@@ -3,7 +3,7 @@ languageCode = "en-US" # Controls site language
 title = "There is NO shortcuts" # Homepage title and page title suffix
 paginate = 10 # Number of posts to show before paginating
 
-theme = "after-dark" # Set default theme
+theme = "base16" # Set default theme
 
 enableRobotsTXT = true # Suggested, enable robots.txt file
 googleAnalytics = "" # Optional, add tracking Id for analytics
