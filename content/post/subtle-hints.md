@@ -6,7 +6,10 @@ title = "Why I don't 'understand' subtle hints"
 
 +++
 
-It's almost stereotypical that male human beings prefer clear and straightforward statements and all that subtle hints are completely confusing for them. But it's not true. At least, not for all. At least, not always. Okay, at least, **sometimes** it's not true about some of us.
+> Any fool can know. The point is to understand.
+> _/Albert Einstein/_
+
+It's almost stereotypical that male human beings prefer clear and straightforward statements and all that subtle hints are completely confusing for them. But it's not true. At least, not for all. At least, not always. Okay, at least, **sometimes** it's not true for some of us.
 
 And here I'm gonna tell some weird vision about what's wrong with some subtle hints.
 
