@@ -9,7 +9,7 @@ title = "Adventure Motorcycle Inspiration (Big List)"
 > Only two things we'll regret on deathbed – that we are a little loved and little traveled.
 > _/Mark Twain (?)/_
 
-If you are excited for _(motorcycle)_ adventures as I am (hey you, once you are reading this - this note is especially for you) - check out one of the huge lists of HU Travellers Meeting attendees. For example [HU Travellers Meeting California 2014](http://www.horizonsunlimited.com/node/4888).
+If you are excited for _(motorcycle)_ adventures as I am (hey you, once you are reading my crappy blog - this note is especially for you) - check out one of the huge lists of HU Travellers Meeting attendees. For example [HU Travellers Meeting California 2014](http://www.horizonsunlimited.com/node/4888).
 
 The more I read about people like these and the more I meet them - the more I'm convinced that there is nothing supernatural in traveling. Just put your wheel or foot on the road and let it goes!
 
